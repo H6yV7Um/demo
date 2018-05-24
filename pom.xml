@@ -19,6 +19,7 @@
     </build>
     <modules>
         <module>spring-boot-demo</module>
+        <module>other-demo</module>
     </modules>
     <packaging>pom</packaging>
 
